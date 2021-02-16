@@ -5,6 +5,7 @@ public class SampleClass {
 		int a=10,b=20,sum;
 		sum=a+b;
 		System.out.println("Addition:"+sum);
+		System.out.println("Pers1 code");
 	}
 
 }
